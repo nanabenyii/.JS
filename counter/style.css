@@ -1,0 +1,13 @@
+.counter{
+    display:block;
+    text-align: center;
+    font-size: 300%;
+    
+}
+.box{
+    width: 20%;
+    height: 25%;
+    margin-top: 13%;
+    margin-left: 40%;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
